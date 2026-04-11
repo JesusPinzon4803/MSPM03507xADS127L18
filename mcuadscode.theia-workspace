@@ -1,0 +1,10 @@
+{
+  "folders": [
+    {
+      "path": "file:///c%3A/Users/Jesus/Desktop/uart_echo_interrupts_standby_LP_MSPM0G3507_nortos_ticlang"
+    }
+  ],
+  "settings": {
+    "CCS.debug.breakpoint.showCore": true
+  }
+}
