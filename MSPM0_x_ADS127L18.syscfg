@@ -98,6 +98,7 @@ SPI2.rxFifoThreshold                    = "DL_SPI_RX_FIFO_LEVEL_ONE_FRAME";
 SPI2.txFifoThreshold                    = "DL_SPI_TX_FIFO_LEVEL_3_4_EMPTY";
 SPI2.$name                              = "SPI_PERIPHERAL2";
 SPI2.targetBitRate                      = 5000000;
+SPI2.phase                              = "1";
 SPI2.peripheral.sclkPin.$assign         = "PB9";
 SPI2.peripheral.mosiPin.$assign         = "PB8";
 SPI2.peripheral.misoPin.$assign         = "PB7";
